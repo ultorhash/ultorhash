@@ -6,9 +6,6 @@
 - 🥅 My goal is to become a profesional senior full-stack developer
 
 ### Contact with me:
-[<img align="left" alt="email" width="30px" src="https://www.svgrepo.com/show/33032/email.svg" />]
-<br />
-<br />
 [<img align="left" alt="linkedin" width="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
