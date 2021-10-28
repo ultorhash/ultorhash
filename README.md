@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Szymon Rajski aka @ultorhash
+- 👀 I’m interested in backend stuff, mainly C#
+- 🌱 I’m currently mastering Angular 2+
