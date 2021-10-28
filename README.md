@@ -8,7 +8,7 @@
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 <br />
 <br />
-[<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/56752/email.svg" />][email] <div style="display: inline">ultorhash@gmail.com</div>
+<div style="display: inline">[<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/56752/email.svg" />][email] ultorhash@gmail.com</div>
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
