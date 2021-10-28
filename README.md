@@ -9,6 +9,7 @@
 <br />
 <br />
 [<img align="left" alt="email" width="30px" src="https://www.svgrepo.com/show/56752/email.svg" />][email] <div style="display: inline">ultorhash@gmail.com</div>
+<div style="display: inline">http://example.com</div> won't be linked because it's inside HTML
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
