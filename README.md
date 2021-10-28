@@ -16,7 +16,7 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354520/visual-studio.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
-<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/349374/git.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353782/git-icon.svg" />
 
 https://www.svgrepo.com/svg/331760/sql-database-generic
 
