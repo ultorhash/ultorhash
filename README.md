@@ -6,7 +6,8 @@
 - 🥅 My goal is to become a profesional senior full-stack developer
 
 ### Contact with me:
-[<img align="left" alt="email" width="30px" src="https://www.svgrepo.com/show/33032/email.svg" />][email]
+[<img align="left" alt="email" width="30px" src="https://www.svgrepo.com/show/33032/email.svg" />] email
+<br />
 [<img align="left" alt="linkedin" width="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 
 [email]: ultorhash@gmail.com
