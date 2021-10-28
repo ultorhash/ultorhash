@@ -16,6 +16,9 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354520/visual-studio.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/349374/git.svg" />
+
+https://www.svgrepo.com/svg/331760/sql-database-generic
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
