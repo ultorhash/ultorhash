@@ -7,5 +7,7 @@
 
 ### Contact with me:
 [<img align="left" alt="linkedin" width="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
+<br />
+[<img align="left" alt="email" width="30px" src="https://www.svgrepo.com/show/33032/email.svg" />]
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
