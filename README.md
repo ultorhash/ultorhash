@@ -5,11 +5,11 @@
 - 🥅 My goal is to become a profesional senior full-stack developer
 
 ### Contact with me:
-[<img align="left" alt="linkedin" width="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 <br />
 <br />
-[<img align="left" alt="email" width="30px" src="https://www.svgrepo.com/show/56752/email.svg" />][email]
-<div style="display: flex; justify-content: center; align-items: center"></div> ultorhash@gmail.com
+[<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/56752/email.svg" />][email]
+<div style="display: flex; justify-content: center; align-items: center; border: 1px solid red; line-height: 10px"></div> ultorhash@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
