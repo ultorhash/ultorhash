@@ -9,7 +9,7 @@
 <br />
 <br />
 [<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/56752/email.svg" />][email]
-<div style="display: flex; justify-content: center; align-items: center; border: 1px solid red; line-height: 10px"></div> ultorhash@gmail.com
+<div style="display: block"></div> ultorhash@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
