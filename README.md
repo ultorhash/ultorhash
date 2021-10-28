@@ -8,7 +8,7 @@
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 <br />
 <br />
-<div style="display: inline">[<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/56752/email.svg" />][email]</div> ultorhash@gmail.com
+<br /><div style="display: inline">[<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/56752/email.svg" />][email]</div> ultorhash@gmail.com
 <br />
 <div style="display: block"></div> ultorhash@gmail.com
 
