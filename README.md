@@ -1,7 +1,7 @@
 ## Hi there 👀, My name is Szymon Rajski aka Ultor
 ## Intern full-stack developer
 
-![Intern full-stack developer](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/373d79c1-a0eb-43e9-87da-f64a9e08cbf2/dur8gy-2286eb12-d672-4f75-b157-0ccd27d33bf5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3M2Q3OWMxLWEwZWItNDNlOS04N2RhLWY2NGE5ZTA4Y2JmMlwvZHVyOGd5LTIyODZlYjEyLWQ2NzItNGY3NS1iMTU3LTBjY2QyN2QzM2JmNS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.zAzDYnP2AITJW-OZufxBpQpkT4YMSyVdGhEeVR_2jL4)
+![Intern full-stack developer](https://cdn.bhdw.net/im/nebula-tapeta-186_L.jpg)
 
 I enjoy mainly backend stuff like C# with ML.NET and also I want to learn blockchain technology. Usually I'm working with frontend and backend technologies to develop web applications.
 
