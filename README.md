@@ -9,7 +9,6 @@
 <br />
 <div style="display: inline"><img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/32100/email.svg" />ultorhash@gmail.com</div>
 <br />
-<br />
 
 ### Languages:
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
