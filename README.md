@@ -1,8 +1,8 @@
-## Hi there, Im Szymon Rajski - aka Ultor
-## I'm a student and intern junior full-stack developer. I enjoy developing web applications using both frontend and backend technologies.
-- 👀 I’m interested in backend stuff, mainly C#, machine learnig in ML.NET and also blockchain
-- 🌱 I’m currently mastering Angular 2+
-- 🥅 My goal is to become a profesional senior full-stack developer
+### Hi there 👋, My name is Szymon Rajski aka Ultor
+#### Intern full-stack developer
+![Intern full-stack developer](https://www.pngall.com/wp-content/uploads/2016/07/Space-Free-PNG-Image.png)
+
+I enjoy mainly backend stuff like C# with ML.NET and also I want to learn blockchain technology. Usually I'm working with frontend and backend technologies to develop web applications.
 
 ### Contact with me:
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
