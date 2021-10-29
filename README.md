@@ -1,8 +1,7 @@
 ## Hi there 👀, My name is Szymon Rajski aka Ultor
-## Intern full-stack developer
-
 ![Intern full-stack developer](https://www.venafi.com/sites/default/files/styles/823x390/public/content/blog/2020-04/virtualhandshake_newblog.png?itok=P3eqg_3g)
 
+## Intern full-stack developer
 I enjoy mainly backend stuff like C# with ML.NET and also I want to learn blockchain technology. Usually I'm working with frontend and backend technologies to develop web applications.
 
 ### Contact with me:
