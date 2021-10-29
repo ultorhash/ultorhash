@@ -1,5 +1,7 @@
-## Hi there 👋, My name is Szymon Rajski aka Ultor
+## Hi there 👀, My name is Szymon Rajski aka Ultor
 ## Intern full-stack developer
+
+![Intern full-stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I enjoy mainly backend stuff like C# with ML.NET and also I want to learn blockchain technology. Usually I'm working with frontend and backend technologies to develop web applications.
 
