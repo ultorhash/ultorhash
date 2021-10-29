@@ -24,7 +24,7 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354259/react.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353954/karma.svg" />
-<img align="left" alt="email" width="30px" height="30px" src="https://blog.sharetechlinks.com/wp-content/uploads/2020/11/ef-core-featured.png" />
+<img align="left" alt="email" width="60px" height="30px" src="https://blog.sharetechlinks.com/wp-content/uploads/2020/11/ef-core-featured.png" />
 <br />
 <br />
 
