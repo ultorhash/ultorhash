@@ -24,7 +24,6 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354259/react.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353954/karma.svg" />
-<img align="left" alt="email" width="30px" height="30px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />
 <br />
 <br />
 
@@ -35,7 +34,7 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353782/git-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" />
-<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/306596/powershell.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
