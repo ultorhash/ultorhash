@@ -35,6 +35,7 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353782/git-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/306596/powershell.svg" />
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
