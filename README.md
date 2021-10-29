@@ -17,8 +17,10 @@
 <br />
 <br />
 
-### Frameworks:
+### Technologies:
+<img align="left" alt="email" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354259/react.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353954/karma.svg" />
 <br />
 <br />
