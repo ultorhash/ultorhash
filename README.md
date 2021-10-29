@@ -36,5 +36,7 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultorhash)](https://github.com/anuraghazra/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
