@@ -39,7 +39,7 @@ I enjoy mainly backend stuff like C# with ML.NET and also I want to learn blockc
 <br />
 <br />
 
-### Repository stats:
+### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultorhash)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
