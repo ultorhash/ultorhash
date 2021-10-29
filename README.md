@@ -19,6 +19,7 @@
 
 ### Frameworks:
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353954/karma.svg" />
 <br />
 <br />
 
