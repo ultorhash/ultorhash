@@ -1,7 +1,7 @@
 ## Hi there 👀, My name is Szymon Rajski aka Ultor
 ## Intern full-stack developer
 
-![Intern full-stack developer](https://cdn.bhdw.net/im/nebula-tapeta-186_L.jpg)
+![Intern full-stack developer](https://i1.wp.com/hoke.com/wp-content/uploads/2014/03/slider_nebula.jpg?ssl=1)
 
 I enjoy mainly backend stuff like C# with ML.NET and also I want to learn blockchain technology. Usually I'm working with frontend and backend technologies to develop web applications.
 
