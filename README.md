@@ -11,7 +11,7 @@ I enjoy mainly backend stuff like C# with ML.NET and also I want to learn blockc
 <br />
 
 ### Languages:
-<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="c sharp" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/255832/sql.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/349402/html5.svg" />
