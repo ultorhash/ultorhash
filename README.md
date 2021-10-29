@@ -1,5 +1,5 @@
 ## Hi there, Im Szymon Rajski - aka Ultor
-## I'm a student and intern junior full-stack developer
+## I'm a student and intern junior full-stack developer. I like to develop web applications using both frontend and backend
 - 👀 I’m interested in backend stuff, mainly C#, machine learnig in ML.NET and also blockchain
 - 🌱 I’m currently mastering Angular 2+
 - 🥅 My goal is to become a profesional senior full-stack developer
@@ -38,7 +38,7 @@
 <br />
 <br />
 
-### Repository stats
+### Repository stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultorhash)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
