@@ -8,11 +8,13 @@
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 <br />
 <div style="display: inline"><img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/56752/email.svg" />ultorhash@gmail.com</div>
+<br />
 
 ### Languages:
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/255832/sql.svg" />
+<br />
 <br />
 
 ### Frameworks:
