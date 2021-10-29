@@ -1,6 +1,5 @@
-### Hi there 👋, My name is Szymon Rajski aka Ultor
-#### Intern full-stack developer
-![Intern full-stack developer](https://www.pngall.com/wp-content/uploads/2016/07/Space-Free-PNG-Image.png)
+## Hi there 👋, My name is Szymon Rajski aka Ultor
+## Intern full-stack developer
 
 I enjoy mainly backend stuff like C# with ML.NET and also I want to learn blockchain technology. Usually I'm working with frontend and backend technologies to develop web applications.
 
