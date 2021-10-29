@@ -7,7 +7,7 @@
 ### Contact with me:
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 <br />
-<div style="display: inline"><img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/56752/email.svg" />ultorhash@gmail.com</div>
+<div style="display: inline"><img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/32100/email.svg" />ultorhash@gmail.com</div>
 <br />
 
 ### Languages:
