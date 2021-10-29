@@ -14,6 +14,8 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/255832/sql.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/349402/html5.svg" />
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/349502/sass.svg" />
 <br />
 <br />
 
