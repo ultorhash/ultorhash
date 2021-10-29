@@ -6,8 +6,8 @@
 
 ### Contact with me:
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
-<br />
 <div style="display: inline"><img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/32100/email.svg" />ultorhash@gmail.com</div>
+<br />
 <br />
 
 ### Languages:
@@ -18,7 +18,9 @@
 <br />
 
 ### Frameworks:
-
+<img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353396/angular-icon.svg" />
+<br />
+<br />
 
 ### Tools:
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />
@@ -26,8 +28,6 @@
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 <img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/353782/git-icon.svg" />
-
-https://www.svgrepo.com/svg/331760/sql-database-generic
 
 [linkedin]: https://www.linkedin.com/in/szymon-rajski-73177a21a/
 [email]: https://mail.google.com/
