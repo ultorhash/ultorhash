@@ -12,6 +12,7 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 <br />
 
 ### Additional technologies I want to develop in:
+<img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/373872/nestjs.svg" title="NestJS"/>
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/374056/rust.svg" title="Rust"/>
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/330069/blockchain-dot-com.svg" title="Blockchain"/>
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/374088/solidity.svg" title="Solidity"/>
@@ -35,14 +36,25 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 <br />
 
 - `Angular Material`
+- `RxJs`
 - `React MUI`
 
 <img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
 <img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
 <br />
 
+- `NgRx`
+- `NGXS`
+- `Redux-toolkit`
+- `Axios`
+- `LINQ`
+
 <img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
 <br />
+
+- `React Query`
+- `React Table`
+- `NestJS`
 
 ### Contact with me via:
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
