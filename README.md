@@ -28,6 +28,9 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 <img align="left" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="Powershell"/>
 <br />
 
+### Additional libraries:
+<img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
+
 ### Contact with me via:
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 <br />
