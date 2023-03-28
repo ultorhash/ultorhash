@@ -18,7 +18,7 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/470684/solana.svg" title="Solana"/>
 <br />
 
-### Tools:
+### Tools I'm using:
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" title="Visual Studio Code"/>
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/354520/visual-studio.svg" title="Visual Studio"/>
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman"/>
@@ -28,7 +28,7 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 <img align="left" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="Powershell"/>
 <br />
 
-### Contact with me!:
+### Contact with me via:
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
 <br />
 <div style="display: inline"><img align="left" alt="email" width="30px" height="30px" src="https://www.svgrepo.com/show/32100/email.svg" />ultorhash@gmail.com</div>
