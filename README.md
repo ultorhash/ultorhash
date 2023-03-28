@@ -29,10 +29,7 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 <br />
 
 ### Additional libraries:
-
-Well known
 <br />
-
 <img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
 <img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
 <img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
@@ -41,6 +38,13 @@ Well known
 - `Angular Material`
 - `React MUI`
 
+<br />
+<img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
+<img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
+<br />
+
+<br />
+<img align="left" width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
 <br />
 
 ### Contact with me via:
