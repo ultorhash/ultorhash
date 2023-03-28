@@ -31,7 +31,6 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 
 ### Additional libraries / frameworks:
 <div align="left">
-  Well known
   <img width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
   <img width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
   <img width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
