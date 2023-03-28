@@ -1,5 +1,4 @@
-## Hi there! My name is Szymon Rajski aka Ultor, fullstack developer 
-mainly interesed in technologies like Angular, React, .NET and NestJS
+## Hi there! My name is Szymon Rajski aka Ultor, fullstack developer mainly interesed in technologies like Angular, React, .NET and NestJS
 
 ### Contact with me:
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
