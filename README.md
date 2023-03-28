@@ -56,7 +56,7 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 - `React Table`
 - `NestJS`
 
-<div align="center">
+<div align="left">
   <img width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
   <img width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
 </div>
