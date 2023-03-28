@@ -56,12 +56,10 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 - `React Table`
 - `NestJS`
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
+<div align="center">
+  <img width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
+  <img width="20px" height="20px" src="https://www.svgrepo.com/show/475275/star.svg" title="Star"/>
+</div>
 
 ### Contact with me via:
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://www.svgrepo.com/show/57068/linkedin.svg" />][linkedin]
