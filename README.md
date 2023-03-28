@@ -13,7 +13,7 @@ Fullstack developer who's open for new ideas and enjoy working in a team using a
 
 ### Additional technologies I want to develop in:
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/374056/rust.svg" title="Rust"/>
-<img align="left" width="30px" height="30px" src="https://www.svgrepo.com/svg/330069/blockchain-dot-com" title="Blockchain"/>
+<img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/330069/blockchain-dot-com.svg" title="Blockchain"/>
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/374088/solidity.svg" title="Solidity"/>
 <img align="left" width="30px" height="30px" src="https://www.svgrepo.com/show/470684/solana.svg" title="Solana"/>
 <br />
