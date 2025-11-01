@@ -1,4 +1,4 @@
-## Hi there! My name is Szymon aka Ultor.
+## Hi there! My name is Szymon.
 Fullstack developer who's open for new ideas and enjoy working in a team using agile development.
 
 ### Technologies and languages I use to work on daily basis:
